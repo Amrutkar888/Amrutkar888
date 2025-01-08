@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atharva Amrutkar</h1>
 <h3 align="center">I am a computer Engineering graduate from VIIT Pune. Currently working as a Software Developer at Avaya.
                   Technology exites me and I am always in the awe of change it drives to the world. 
-                  Certain skills that I have worked with include Data Structures and Algorithms(C++), Full stack Web Developement(SpringBoot, ReactJS, PostgreSQL, Redis), Machine Learning(Python) </h3>
+                  Certain skills that I have worked with include Data Structures and Algorithms(C++), Full stack Web Developement(SpringBoot, ReactJS, PostgreSQL, Redis), Machine Learning(Python).
+                  Outside of tech, I like to play guitar in my free time.</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrutkar888&label=Profile%20views&color=0e75b6&style=flat" alt="amrutkar888" /> </p>
